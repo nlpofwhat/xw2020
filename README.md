@@ -1,7 +1,7 @@
 # xw-bank-2020
 
-con2d 来自 https://github.com/ycd2016/xw2020_cnn_baseline
-cnn1d 来自 https://github.com/blueloveTH/xwbank2020_baseline_keras
+con2d model部分参考 https://github.com/ycd2016/xw2020_cnn_baseline
+cnn1d model部分参考 https://github.com/blueloveTH/xwbank2020_baseline_keras
 
 # cnn2d从开始的线上0.708到0.775
 
