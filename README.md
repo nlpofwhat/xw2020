@@ -1,4 +1,5 @@
 # xw-bank-2020
+新网银银行 根据传感器数据进行行为模式的识别
 
 con2d model部分参考 https://github.com/ycd2016/xw2020_cnn_baseline
 cnn1d model部分参考 https://github.com/blueloveTH/xwbank2020_baseline_keras
